@@ -13,7 +13,7 @@ You can see the table of contents via the amazon book preview (link below) or th
 Please enjoy the sample chapter on fundamentals of differentiation (ch5.pdf). Looking through this chapter will give you a feel for the quality, formatting, and style of the book and the exercises.
 
 ## Buy the book:
-The full book is available on amazon: https://www.amazon.com/dp/
+The full book is available on amazon: https://www.amazon.com/dp/B0DX6BPPZ8
 
 ## Watch YT videos of exercises and their solutions
 Video walk-throughs of instructions and Python solutions to the book exercises can be found on my YT channel:
