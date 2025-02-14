@@ -17,4 +17,4 @@ The full book is available on amazon: https://www.amazon.com/dp/B0DX6BPPZ8
 
 ## Watch YT videos of exercises and their solutions
 Video walk-throughs of instructions and Python solutions to the book exercises can be found on my YT channel:
-https://www.youtube.com/
+[https://www.youtube.com/](https://www.youtube.com/playlist?list=PLn0OLiymPak2TFbFj2SD6-p-3-jOah7fe)
