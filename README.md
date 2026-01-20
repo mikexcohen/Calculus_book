@@ -1,23 +1,57 @@
-# Calculus unraveled: Intuition, Proofs, and Python
+# Calculus Unraveled: Intuition, Proofs, and Python
 
-## Hello friends!
+Master calculus through clear intuition, rigorous proofs, and hands-on Python implementations.
 
-Here's the repo for my shiny new calculus textbook. It's 605 pages of wholesome mathematical goodness :)
+## About the Book
 
-This repository contains all the Python code files to produce the book figures, illustrate the concepts, and show solutions to all exercises.
+**605 pages** of comprehensive calculus coverage, from fundamentals through multivariable calculus and beyond.
 
-### Table of contents and sample chapters
+This book teaches calculus with a three-pronged approach: geometric intuition, mathematical rigor, and practical Python code. Each concept is developed carefully with proofs, visualizations, and working implementations.
 
-You can see the table of contents via the amazon book preview (link below) or the TOC_and_ch1.pdf file uploaded here. Chapter 1 provides an introduction to the book, target audience, and prerequisites.
+**[Preview Table of Contents & Chapter 1](TOC_and_ch1.pdf)** | **[Free sample chapter: Fundamentals of Differentiation](ch5.pdf)**
 
-Please enjoy the sample chapter on fundamentals of differentiation (ch5.pdf). Looking through this chapter will give you a feel for the quality, formatting, and style of the book and the exercises.
+## Code Repository
 
-## Buy the book:
-The full book is available on amazon: https://www.amazon.com/dp/B0DX6BPPZ8
+This repository contains all Python code from the book:
+- Complete code for all figures and visualizations
+- Implementations demonstrating calculus concepts
+- Solutions to all exercises
+- Interactive examples you can modify and explore
 
-## Watch YT videos of exercises and their solutions
-Video walk-throughs of instructions and Python solutions to the book exercises can be found on my YT channel:
-[https://www.youtube.com/](https://www.youtube.com/playlist?list=PLn0OLiymPak2TFbFj2SD6-p-3-jOah7fe)
+## Purchase Options
 
-![Calculart](https://sincxpress.com/images/calcsBookCoverSmall.png)
+| Format | Link |
+|--------|------|
+| Paperback | [Amazon](https://www.amazon.com/dp/B0DX6BPPZ8) |
+| Kindle | [Amazon](https://www.amazon.com/dp/B0DX6BPPZ8) |
+| PDF | [Gumroad](TEMP_URL_HERE) |
 
+## 🎥 Exercise Solutions (Video)
+
+Watch detailed walkthroughs of exercise instructions and Python solutions on YouTube:
+
+**[Exercise Solutions Playlist](https://www.youtube.com/playlist?list=PLn0OLiymPak2TFbFj2SD6-p-3-jOah7fe)**
+
+## Community Support
+
+Join the Discord server for questions, discussions, and support:
+
+**[Join Discord](https://discord.gg/t9UAkKyR95)**
+
+## What You'll Learn
+
+- Single and multivariable differentiation
+- Integration techniques and applications
+- Sequences, series, and convergence
+- Geometric interpretation of calculus concepts
+- Computational implementation in Python
+
+## About the Author
+
+Mike X Cohen, PhD - Former neuroscience professor, full-time educator, and Udemy bestselling instructor with 25 years of experience teaching mathematics, machine learning, and data science.
+
+---
+
+![Calculus Unraveled Cover](https://sincxpress.com/images/calcsBookCoverSmall.png)
+
+*All code in this repository is free to use for learning. The book provides the theory, proofs, and exercises that give the code meaning.*
