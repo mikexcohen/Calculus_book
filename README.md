@@ -23,8 +23,7 @@ This repository contains all Python code from the book:
 | Format | Link |
 |--------|------|
 | Paperback | [Amazon](https://www.amazon.com/dp/B0DX6BPPZ8) |
-| Kindle | [Amazon](https://www.amazon.com/dp/B0DX6BPPZ8) |
-| PDF | [Gumroad](TEMP_URL_HERE) |
+| PDF version | [Gumroad](https://mikexcohen.gumroad.com/l/calculus) |
 
 ## 🎥 Exercise Solutions (Video)
 
